@@ -4,7 +4,6 @@ Event site for EuroNight, a night out at the Pit hosted by six UBC student clubs
 (ITASA, Greek SA, TSA, Francophone, XISC and the Balkan club).
 Thursday, November 26, 10 PM to 3 AM.
 
-![EuroNight hero](poster.jpg)
 
 ## What's on the page
 
