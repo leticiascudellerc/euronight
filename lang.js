@@ -65,4 +65,3 @@ LANGUAGES.forEach(function (language) {
   langList.appendChild(li);
 });
 langBtn.addEventListener('click', () => langList.hidden = !langList.hidden);
-loadLanguage("it")
